@@ -1,0 +1,23 @@
+.headerBox {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.itemsBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+}
+
+.list1 {
+  margin-right: 10px;
+}
+
+.linkItem {
+  text-decoration: none;
+  color: black;
+  outline: none;
+}
